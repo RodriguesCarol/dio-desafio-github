@@ -1,0 +1,8 @@
+git clone (+ linK)
+cd (+repositório)
+git status ( verificar se esta na branch main)
+git status( verificar informações novas)
+git add.( adiciona todos os arquivos)
+git commit-m "comentário"
+git status( mostrará que necessário enviar para nuvem)
+git push origin main
