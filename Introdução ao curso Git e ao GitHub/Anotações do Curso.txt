@@ -1,0 +1,11 @@
+Comandos Básicos:
+
+Listar -> dir
+Navegar pastas -> cd/
+Retroceder -> cd ..
+Limpar Terminal -> cls
+Auto Completar -> tab
+Criar Pasta -> mkdir
+Acessar Pasta -> cd 
+Deletr Arquivos -> del
+Remover Repositório -> rmdir
